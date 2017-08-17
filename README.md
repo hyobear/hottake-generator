@@ -1,2 +1,2 @@
-# hottake.github.io
+# hottake-generator
 a hottake generator
